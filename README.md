@@ -111,12 +111,9 @@ Je me concentre sur le développement front-end et back-end, tout en cherchant c
         <img src="https://github-profile-trophy.vercel.app/?username=tonakpon" alt="tonakpon" />
     </a>
 </p>
-# 
 
-<!--
 <details>
  <summary><h3>👨‍💻 Parcours de codage de Tonakpon</h3></summary>
    J'ai commencé mon parcours de codage en tant qu'étudiant en systèmes informatiques, avec une passion pour l'apprentissage du développement web, de la programmation et de la création d'applications. Après mon programme de formation, j'ai effectué un stage en développement logiciel, ce qui m'a permis de travailler sur des projets concrets. J'ai ensuite continué à perfectionner mes compétences avec des projets personnels, allant du développement front-end au back-end avec des technologies comme React, JavaScript, Node.js, et bien plus. Mon objectif est de résoudre des problèmes réels en créant des applications et des solutions logicielles innovantes.
 </details>
--->
 
