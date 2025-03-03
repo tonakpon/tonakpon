@@ -84,7 +84,7 @@
    </a>
 </p>
 
-# 📊GitHub Stats :
+# 📊Statistiques GitHub :
 ![tonakpon's Stats](https://github-readme-stats.vercel.app/api?username=tonakpon&theme=radical&show_icons=true&hide_border=true&count_private=false)
 
 ![tonakpon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonakpon&theme=radical&hide_border=true)
