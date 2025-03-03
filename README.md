@@ -73,19 +73,28 @@
 
 <h2>⚡️ Où me trouver</h2>
 <p>
-   <a target="_blank" href="https://twitter.com/https://x.com/SagboSamson7" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
-   </a>
    <a target="_blank" href="https://www.facebook.com/https://facebook.com/sagbotonakponsamson" style="display: inline-block;">
       <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+   </a>
+   <a target="_blank" href="https://twitter.com/https://x.com/SagboSamson7" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
    </a>
    <a target="_blank" href="https://www.youtube.com/@sagbosamson3775" style="display: inline-block;">
       <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" />
    </a>
 </p>
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonakpon&show_icons=true&locale=en" alt="tonakpon" />
-</p>
+
+# 📊GitHub Stats :
+![tonakpon's Stats](https://github-readme-stats.vercel.app/api?username=tonakpon&theme=radical&show_icons=true&hide_border=true&count_private=false)
+
+![tonakpon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonakpon&theme=radical&hide_border=true)
+
+
+<!--
+   ![tonakpon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonakpon&theme=radical&hide_border=true)
+-->
+
+![tonakpon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonakpon&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 <p>
@@ -93,13 +102,10 @@
 </p>
 -->
 
-<p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonakpon&show_icons=true&locale=en&layout=compact" alt="tonakpon" />
-</p>
-<p>
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonakpon" alt="tonakpon" />
-   </a>
-</p>
+### 🏆 Trophées GitHub
+![](https://github-profile-trophy.vercel.app/?username=tonakpon&theme=radical&no-bg=true&no-frame=false&margin-w=15)
+
+[![](https://visitcount.itsvg.in/api?id=tonakpon&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <details>
  <summary><h3>👨‍💻 Parcours de codage de Tonakpon</h3></summary>
